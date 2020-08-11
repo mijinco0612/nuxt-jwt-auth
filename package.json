@@ -9,7 +9,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "@nuxtjs/proxy": "^2.0.1",
+    "cookie-parser": "^1.4.5",
     "element-ui": "^2.13.2",
+    "js-cookie": "^2.2.1",
     "nuxt": "^2.14.0"
   },
   "devDependencies": {}
